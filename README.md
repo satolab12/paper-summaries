@@ -4,10 +4,11 @@
 
 # 備考
 
-Qiitaにも上記の技術を実装したり検証したりする記事を時折投稿していますので，
+- Qiitaにも上記の技術を実装したり検証したりする記事を時折投稿していますので，
 よろしければご覧ください．
+
 https://qiita.com/satolab
 
-Twitterでも配信してます．
+- Twitterでも配信してます．
 
 https://twitter.com/satolab1201
