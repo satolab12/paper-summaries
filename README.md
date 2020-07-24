@@ -8,5 +8,6 @@ Qiitaにも上記の技術を実装したり検証したりする記事を時折
 よろしければご覧ください．
 https://qiita.com/satolab
 
-Twitterで配信してます．
+Twitterでも配信してます．
+
 https://twitter.com/satolab1201
