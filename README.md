@@ -10,9 +10,6 @@
 
 https://qiita.com/satolab
 
-- Twitterでも配信してます．
-
-https://twitter.com/satolab1201
 
 ## Format
 
