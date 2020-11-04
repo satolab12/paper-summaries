@@ -15,4 +15,7 @@ https://qiita.com/satolab
 
 - だいたいのサマリーは落合先生のフォーマットを踏襲しています．
 
-##　気になる論文リスト
+## 気になる論文リスト
+・https://openaccess.thecvf.com/content_CVPR_2019/papers/Kwon_Predicting_Future_Frames_Using_Retrospective_Cycle_GAN_CVPR_2019_paper.pdf
+・https://arxiv.org/pdf/2004.05214.pdf
+・https://arxiv.org/pdf/2002.09905.pdf
